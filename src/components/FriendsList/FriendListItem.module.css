@@ -15,8 +15,16 @@
     width: 30px;
     height: 30px;
     margin-right: 100px;
-    background-color: green;
+    background-color: gray;
     border-radius: 100%;
+}
+
+.true{
+    background-color: green;
+}
+
+.false{
+    background-color: red;
 }
 
 .avatar{
