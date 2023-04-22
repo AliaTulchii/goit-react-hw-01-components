@@ -1,0 +1,25 @@
+.item{
+    display: flex;
+    align-items: center;
+    width: 950px;
+    background-color: rgb(178, 231, 252);
+    margin-bottom: 40px;
+    padding: 20px 30px;
+}
+
+.item:not(:last-child){
+    margin-bottom: 20px;
+}
+
+.status{
+    width: 30px;
+    height: 30px;
+    margin-right: 100px;
+    background-color: green;
+    border-radius: 100%;
+}
+
+.avatar{
+    width:200px;
+    margin-right: 50px;
+}
