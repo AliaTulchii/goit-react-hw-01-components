@@ -5,11 +5,10 @@
     background-color: rgb(178, 231, 252);
     margin-bottom: 40px;
     padding: 20px 30px;
+    box-shadow: -3px -3px 7px #ffffff, 3px 3px 5px #ceced1;
 }
 
-.item:not(:last-child){
-    margin-bottom: 20px;
-}
+
 
 .status{
     width: 30px;

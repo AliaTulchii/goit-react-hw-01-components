@@ -1,0 +1,22 @@
+.transaction_history{
+    width: 1090px;
+    border: solid 1px rgb(0, 195, 255) ;
+    border-radius: 20px;
+}
+
+.head{
+    background-color: rgb(0, 174, 255);
+    height: 80px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: white;
+}
+
+.td_type, .td_amount, .td_currency{
+    height: 60px;
+    border: solid 1px rgb(0, 195, 255);
+}
+
+.td_type, .td_currency{
+    background-color: rgb(127, 221, 255);
+}
